@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Englebert&family=Fresca&family=Sora:wght@100..800&display=swap');
+/*
+// <weight>: Use a value from 100 to 800
+// <uniquifier>: Use a unique and descriptive class name
+
+    .sora-<uniquifier> {
+    font-family: "Sora", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+    .fresca-regular {
+    font-family: "Fresca", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+    .englebert-regular {
+    font-family: "Englebert", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+*/
+*{
+    font-family: "Sora", sans-serif;
+    size: 30px;
+}
+body{
+    background-color: #E2DBC4;
+}
+h1{
+    color: cadetblue;
+    font-family: "sora", sans-serif;
+}
+h2{
+    color: teal;
+    font-family: "Fresca", sans-serif;
+}
+h4{
+    color: #4B0082;
+    font-family: "Fresca", sans-serif;
+}
+p{
+    color: rgb(90, 78, 45);
+    font-family: "Englebert", cursive;
+}
+ul{
+    color: #4B0082;
+    font-family: "Fresca", sans-serif;
+}
+ol{
+    color: #4B0082;
+    font-family: "Fresca", sans-serif;
+}
+#color1 {
+    color: #283618;
+}
+#color2 {
+    color: #606C38;
+}
+#color3 {
+    color: #BC6C25;
+}
+#color4 {
+    color: #DDA15E;
+}   
